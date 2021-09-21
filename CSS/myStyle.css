@@ -1,0 +1,103 @@
+
+/* This CSS is used to style the header				 */
+h1 {
+	color: white;
+	text-align: center;
+	font-family: "audiowide", Arial, sans-serif !important;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+#para1 {
+	color: white;
+	text-align: center;
+	font-family: "audiowide", Arial, sans-serif;
+}
+					
+					
+* {box-sizing: border-box}
+
+/* This is the CSS used to style the navigation bar, text, and body. */
+
+body {
+  margin-left: 0;
+	background-color: rgb(27, 27, 27) !important;
+}
+					
+.tabcontent {
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	color:white;
+	font-family: "audiowide", Arial, sans-serif
+}
+
+#MSImg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+ 
+#ExcelImg {
+  display: block;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#outreachImg {
+  display: block;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#ZymeImg {
+  display: block;
+  margin-top: 70px;
+}
+
+.topnav  {
+  overflow: hidden;
+  background-color: #333;
+	font-family: "audiowide", Arial, sans-serif;
+
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 24%;
+}
+
+/* .topnav a:hover {
+background-color: #777
+} */
+
+.topnav a.active {
+  background-color: rgb(224, 17, 224);
+  color: white;
+}
+/* style the footer */
+.footer {
+	padding: 20px;
+	font-family: "audiowide", Arial, sans-serif;
+	text-align: center;
+	background: #333;
+	color: white
+}
