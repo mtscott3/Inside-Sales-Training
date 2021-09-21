@@ -1,6 +1,6 @@
-#Inside-Sales-Training
+	#Inside-Sales-Training
 			
-	Hello sales super stars! My name is Matthew Taylor Scott, and I'm a sales professional 
+Hello sales super stars! My name is Matthew Taylor Scott, and I'm a sales professional 
 with a B.S. in Biology and a Master of Business Administration that I achieved during my 5 years of 
 working for Thermo Fisher Scientific, one of the largest Contract Development & Manufacturing Organizations. 
 I gained knowledge in the Pharma & Biotech manufacturing industry delivering results where I exceeded my sales 
@@ -11,4 +11,4 @@ programs for future new hires to learn these skills.
 	Practice the content on this website and you will be on your way to becoming an inside sales master of pharma services.
 	Happy Hunting!
       
- TECHNOLOGIES USED: Html, CSS, Javascript     
+	TECHNOLOGIES USED: Html, CSS, Javascript     
