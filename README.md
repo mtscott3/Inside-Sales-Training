@@ -2,6 +2,8 @@
 
 ##TECHNOLOGIES USED: Html, CSS, Javascript 
 
+##Visit the insidesalestraining.github.io repository to see the "GitHub Pages" version of this site.
+
 Hello sales super stars! My name is Taylor Scott, and I'm a sales professional 
 with a B.S. in Biology and a Master of Business Administration that I achieved during my 5 years of 
 working for one of the largest Contract Development & Manufacturing Organizations. 
