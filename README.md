@@ -2,7 +2,7 @@
 
 ##TECHNOLOGIES USED: Html, CSS, Javascript 
 
-Hello sales super stars! My name is Matthew Taylor Scott, and I'm a sales professional 
+Hello sales super stars! My name is Taylor Scott, and I'm a sales professional 
 with a B.S. in Biology and a Master of Business Administration that I achieved during my 5 years of 
 working for one of the largest Contract Development & Manufacturing Organizations. 
 I gained knowledge in the Pharma & Biotech manufacturing industry delivering results where I exceeded my sales 
